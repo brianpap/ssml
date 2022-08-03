@@ -3,4 +3,4 @@ text
  - color-what color it is
  - type0 what type of text it is b = bold, I = italicized
 Keep the code in one line with;to separate and put in 
-A<ssml>tag group and make sure to mave a div with the id code output
+A<ssml>tag group and make sure to mave a div with the id code_out
